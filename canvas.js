@@ -1,7 +1,7 @@
 $(document).ready( function() {
 	var stage = new Kinetic.Stage({
 		container: 'container',
-		width: 600,
+		width: 1119,
 	    height: 600
 	});
 
